@@ -55,7 +55,7 @@
         "main": true,
         "title": "Internet marketing UA",
         "meta_descr": "Интернет маркетинг, Реклама в Google,  разработка сайтов, Реклама на Youtube, Создание рекламных кампаний в сервисе Google реклама, Google мой бизнес сопровождение аккаунтов компаний. ",
-        "header_custom": "<meta name=\"google-site-verification\" content=\"SQg1-p_jcBqRryu7qwixxJGGGYbedTJqHxDEk3oueMo\" />",
+        "header_custom": "",
         "footer_custom": "",
         "html_before": ""
       },
