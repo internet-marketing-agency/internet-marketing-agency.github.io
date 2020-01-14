@@ -34,9 +34,9 @@
     "siteFonts": [],
     "uniqCompNum": 8,
     "versionPublish": "4.10.7",
-    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n",
-    "robotsSwitcher": "on",
-    "siteUrl": "https://internet-marketing-agency.github.io/",
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "robotsSwitcher": "",
+    "siteUrl": "",
     "sitemapSwitcherAuto": "on",
     "cleanCSS": true,
     "PWA": {
