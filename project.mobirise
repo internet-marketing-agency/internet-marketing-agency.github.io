@@ -40,16 +40,7 @@
     "sitemapSwitcherAuto": "on",
     "cleanCSS": true,
     "PWA": {
-      "enabled": true
-    },
-    "cookiesAlert": {
-      "colorText": "#424a4d",
-      "colorBg": "#eaeff1",
-      "colorButton": "#ffffff",
-      "colorLink": "#424a4d",
-      "underlineLink": true,
-      "opacity": "99",
-      "text": "Мы используем файлы cookie для того, чтобы предоставить Вам больше возможностей при использовании сайта. Прочитайте нашу <a href='privacy.html'>политику в отношении файлов cookie</a>."
+      "enabled": false
     },
     "favicon": "",
     "noImageResize": "",
